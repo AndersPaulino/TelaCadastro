@@ -1,4 +1,4 @@
-#  Tela Cadastro 📋
+# Tela Cadastro 📋
     
 <img src="./img/capa.jpg">
   
@@ -9,7 +9,7 @@
 
 ## Descrição do Projeto
 
-tela de cadastro com verificações nos campos de entrada de dados.
+Tela de cadastro com verificações nos campos de entrada de dados, e um botão de enviar que salva os dados no localestorage da página.
 
 ## Verificações ✔
 
@@ -28,7 +28,7 @@ Se o campos forem preenchidos corretamente, a cor dos caracteres e do campo fica
 
 O projeto ainda está em desenvolvimento, e necessita de alguns ajustes.
 
-Próximas melhorias 🔝
+Próximas melhorias 👨‍🔧
 
 1. Cadastro do Nome de usuário será unico.
 2. Cadastro de E-mail de usuário será unico.
