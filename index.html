@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="./img/images.jpg" alt="png">
+    <div id="container">
+        <h1>Cadastro</h1>
+        <form id="registro">
+                <label for="nome" id="labelNome">Nome</label>
+                <input type="text" name="nome" id="nome" placeholder="Digite seu Nome" maxlength="25">
+                <label for="email" id="labelEmail">E-mail</label>
+                <input type="email" name="email" id="email" placeholder="Digite seu E-mail" required>
+                <label for="senha" id="labelSenha">Senha</label>
+                <input type="password" name="senha" id="senha" placeholder="Digite sua Senha" maxlength="8">
+                <label for="confirma" id="labelConfirma">Confirme sua senha</label>
+                <input type="password" name="confirma" id="confirma" placeholder="Repita sua Senha" maxlength="8">
+        </form>
+            <button disabled="true" onclick="f5()">Enviar</button>
+    </div>
+    <script src="./scripts.js"></script>
+</body>
+</html>
