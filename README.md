@@ -38,4 +38,4 @@ Anderson Paulino.
 
 🐱‍👤🐱‍🏍🐱‍🚀
 
-[⬆ Voltar ao topo](#tela-cadastro-📋)<br>
+[⬆ Voltar ao topo](#tela-cadastro-)<br>
